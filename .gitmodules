@@ -1,0 +1,4 @@
+[submodule "it-projects-llc/pos-addons/pos_multi_session_restaurant"]
+	path = it-projects-llc/pos-addons/pos_multi_session_restaurant
+	url = git@github.com:it-projects-llc/pos-addons.git
+	branch = 11.0
